@@ -1,4 +1,3 @@
-# Railway-Seat-Availability
 
 # Train Ticket Availability
 
@@ -26,24 +25,25 @@ This repository contains a web application for finding alternative train station
 ## Setup
 
 1. Clone the repository:
+   git clone https://github.com/Lavishgurjar85/Railway-Seat-Availability.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 cd train-ticket-availability
 
 
-3. Install dependencies:
+4. Install dependencies:
 npm install
 
 
-4. Create a `.env` file in the root directory and add your RapidAPI key:
+5. Create a `.env` file in the root directory and add your RapidAPI key:
 RAPIDAPI_KEY=your_rapidapi_key_here
 Replace `your_rapidapi_key_here` with your actual RapidAPI key.
 
-5. Start the server:
+6. Start the server:
 node app.js
 
 
-6. Open a web browser and go to `http://localhost:3000` to access the application.
+7. Open a web browser and go to `http://localhost:3000` to access the application.
 
 ## Usage
 
