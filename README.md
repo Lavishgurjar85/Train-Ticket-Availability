@@ -25,7 +25,7 @@ This repository contains a web application for finding alternative train station
 ## Setup
 
 1. Clone the repository:
-   git clone https://github.com/Lavishgurjar85/Railway-Seat-Availability.git
+   git clone https://github.com/Lavishgurjar85/Train-Ticket-Availability.git
 
 3. Navigate to the project directory:
 cd train-ticket-availability
